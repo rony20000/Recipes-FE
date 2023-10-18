@@ -1,0 +1,21 @@
+.form {
+  display: "flex";
+  flex-wrap: "wrap";
+  justify-content: "center";
+}
+
+.submit {
+  margin-bottom: 10px;
+}
+
+.fileInput {
+  width: 97%;
+  margin: 10px 0;
+}
+.paper {
+  padding: 16px;
+}
+
+.textField {
+  margin-bottom: 10px !important;
+}
